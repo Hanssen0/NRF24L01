@@ -1,0 +1,4 @@
+#ifndef NRF24L01_SRC_TIMER_SDCC_H_
+#define NRF24L01_SRC_TIMER_SDCC_H_
+void DelayHalfMs();
+#endif  // NRF24L01_SRC_TIMER_SDCC_H_
